@@ -9,3 +9,4 @@ SELECT cat_id, age FROM cats WHERE cat_id = age;
 SELECT cat_id AS id , name FROM cats;
 
 SELECT name AS 'cat_name', breed AS 'kitty breed' FROM cats;
+
